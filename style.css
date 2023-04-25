@@ -1,0 +1,85 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+}
+header{
+    position: absolute;
+    height: 18%;
+    width: 100%;
+    background-color: gold;
+}
+a{
+    padding: 30px;
+    font-size: xx-large;
+    margin-left: 200%;
+}
+li{
+    display: inline-flex;
+}
+.logo{
+    position: absolute;
+    height: 100%;
+    width: 18%;
+    left: 10px;
+    top: 8%;
+}
+.logo img{
+    height: 80%;
+    width: 80%;
+}
+.nav{
+    position: relative;
+    bottom: 20px;
+    left: 30%;
+    top: 1%;
+}
+.img{
+    position: absolute;
+    height: 72%;
+    width: 60%;
+    background-color: black;
+    left: 20%;
+    top: 18%;
+}
+.img img{
+    height: 100%;
+    width: 100%;
+}
+.fooder{
+    background-color: red;
+    position: absolute;
+    height: 8%;
+    width: 100%;
+    bottom: 0;
+}
+.span{
+    color: white;
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+}
+.span1{
+    color: white;
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+}
+.span3{
+    color: white;
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+}
+i{
+    color: black;
+    margin-left: 6%;
+    margin-top: 13px;
+    justify-content: space-around;
+}
+.nav1{
+    position: relative;
+    height: 20px;
+    width: 50%;
+    margin-left: 70%;
+    bottom: 27px;
+}
